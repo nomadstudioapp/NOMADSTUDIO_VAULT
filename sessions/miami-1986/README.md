@@ -4,10 +4,10 @@
 
 **[⬇ miami-1986.zip](miami-1986.zip)**
 
-**EN** — One [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session: a 1986-style TV frame → outpaint 16:9 → Edit Qwen 2.1 → SeedVR2 4x upscale. The zip has every image, prompt and seed.
+**EN** — One [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session: a 1986-style TV frame → outpaint 16:9 → Edit Qwen 2.1 → SeedVR2 4x upscale. The zip has every image, prompt and seed — import it straight into Nomad Studio (Session → Import) and branch from any step.
 
-**ES** — Una Session de [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio): un fotograma al estilo de 1986 → outpaint 16:9 → Edit Qwen 2.1 → upscale 4x con SeedVR2. El zip trae todas las imágenes, prompts y semillas.
+**ES** — Una Session de [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio): un fotograma al estilo de 1986 → outpaint 16:9 → Edit Qwen 2.1 → upscale 4x con SeedVR2. El zip trae todas las imágenes, prompts y semillas: impórtalo directamente en Nomad Studio (Session → Import) y sigue desde cualquier paso.
 
-**ZH** — 一个 [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session：1986 年风格的电视画面 → 外扩到 16:9 → Edit Qwen 2.1 → SeedVR2 放大 4 倍。zip 中包含所有图片、提示词和种子。
+**ZH** — 一个 [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session：1986 年风格的电视画面 → 外扩到 16:9 → Edit Qwen 2.1 → SeedVR2 放大 4 倍。zip 中包含所有图片、提示词和种子——可直接导入 Nomad Studio（Session → Import），从任意一步继续。
 
-**KO** — [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session 하나: 1986년 스타일 TV 장면 → 16:9 아웃페인트 → Edit Qwen 2.1 → SeedVR2 4배 업스케일. zip에 모든 이미지, 프롬프트, 시드가 들어 있습니다.
+**KO** — [Nomad Studio](https://github.com/nomadstudioapp/NomadStudio) Session 하나: 1986년 스타일 TV 장면 → 16:9 아웃페인트 → Edit Qwen 2.1 → SeedVR2 4배 업스케일. zip에 모든 이미지, 프롬프트, 시드가 들어 있으며, Nomad Studio에 바로 가져와(Session → Import) 어느 단계에서든 이어서 작업할 수 있습니다.
